@@ -1,0 +1,78 @@
+@media(width>1440px){
+    header{
+        width: 100vw;
+        display: flex;
+        justify-content: center;
+    }
+    h1{
+        width: 431px;
+        font-size: 22px;
+    }
+    .box{
+        width: 148px;
+    }
+    .date{
+        font-size: 80px;
+    }
+    .box span{
+        font-size: 14px;
+        position: relative;
+        top: 16px;
+    }
+    
+    
+    footer{
+    position: relative;
+    bottom: -205px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    
+    .icons{
+        gap: 40px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .icons img:hover{
+        cursor: pointer;
+        transform: scale(1.5);
+        transition: 1s;
+       
+    
+    }
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
